@@ -1,0 +1,22 @@
+body {
+	background-color: #000;
+	color: brown;
+}
+
+svg {
+	display: block;
+	margin: 0 auto;
+}
+h1,
+h2 {
+	text-align: center;
+	margin: 10px 0;
+}
+
+.title {
+	font: 700 40px "Arial", sans-serif;
+}
+.subtitle {
+	font: 500 30px "Verdana", sans-serif;
+	color: green;
+}
